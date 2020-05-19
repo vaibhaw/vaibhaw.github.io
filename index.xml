@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vaibhaw Singh Chandel</title>
-    <link>https://vaibhawchandel.github.io/</link>
+    <link>https://vaibhaw.github.io/</link>
     <description>Recent content on Vaibhaw Singh Chandel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Jun 2018 05:46:28 -0400</lastBuildDate>
     
-	<atom:link href="https://vaibhawchandel.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vaibhaw.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://vaibhawchandel.github.io/posts/my-first-post/</link>
+      <link>https://vaibhaw.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 13 Jun 2018 05:46:28 -0400</pubDate>
       
-      <guid>https://vaibhawchandel.github.io/posts/my-first-post/</guid>
+      <guid>https://vaibhaw.github.io/posts/my-first-post/</guid>
       <description>explain wercker</description>
     </item>
     
